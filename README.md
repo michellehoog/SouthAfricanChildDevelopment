@@ -19,4 +19,3 @@ mkvirtualenv sadev -p python3.7 -r requirements.txt
 workon sadev
 ```
 
-Create directories for data, output and notebooks
